@@ -1,4 +1,4 @@
-const CACHE = 'al-mudhish-cache-v1.2.0';
+const CACHE = 'al-mudhish-cache-v1.3.0';
 const CORE = [
   './',
   './index.html',
